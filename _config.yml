@@ -1,0 +1,9 @@
+theme: minima
+title: Zweisprachiges Online-Wörterbuch der Phrasem-Konstruktionen
+author: caracumba
+email: kroelebor@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+# social links
+github_username:  caracumba
+
+show_excerpts: false # set to false to remove excerpts on the homepage
