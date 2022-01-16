@@ -1,5 +1,3 @@
----
-title: Zweisprachiges Online-Wörterbuch der Phrasem-Konstruktionen
----
 Общее про словарь
+
 Phrasem-Konstruktionen (PhK), oder Phraseoschablonen, sind syntaktische Konstruktionen, in denen bestimmte Positionen meist fest belegt sind („Anker“), während andere Positionen Slots darstellen, die bei der Textproduktion relativ frei durch verschiedene Lexeme oder Wortgruppen aufgefüllt werden. Als Beispiele können dafür deutsche PhK dienen: kein Geringerer als N (Es war kein Geringerer als Hermann Hesse); Einmal X – immer X (Einmal Lehrer – immer Lehrer); Dass PronPers ja nicht X! (Dass du mir ja nicht wegläufst!). Die Erforschung der PhK aus linguistischer Sicht geht Hand in Hand mit dem steigenden Interesse für Konstruktionsgrammatik (CxG) und hat sich im letzten Jahrzehnt als eigene Forschungsrichtung etabliert, obwohl die ersten PhK in der russischen Linguistik bereits Ende der 50-er Jahre des 20. Jh. ausgemacht und beschrieben wurden (Dmitrij Šmelёv, Natalia Švedova, s. Referenzen). Die ersten Versuche, PhK lexikographisch zu erfassen, wurden von Vadim Melikjan Anfang der 2000er Jahre vorgenommen. Einzelne PhK wurden in verschiedenen Artikeln und Dissertationen beschrieben. Eine systematische und umfassende Beschreibung der PhK aber bleibt aus (vgl. Boas, Hans C. 2019). 
