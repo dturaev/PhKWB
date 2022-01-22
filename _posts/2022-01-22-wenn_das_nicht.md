@@ -1,6 +1,6 @@
 ---
 title: "Artikel **Wenn das nicht/kein(e) X ist/sind [!]**"
-id: 1
+date: 2022-01-22
 ---
 
 `<function="семантическое поле">` Behauptung der Identität 
