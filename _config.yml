@@ -1,4 +1,4 @@
-remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-chirpy
 title: Zweisprachiges Online-Wörterbuch der Phrasem-Konstruktionen
 author: caracumba
 email: kroelebor@gmail.com
