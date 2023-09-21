@@ -8,6 +8,8 @@ Suggestions for static site generators:
 - Jekyll (e.g. https://github.com/cotes2020/jekyll-theme-chirpy)
   - https://andreaburan.com/post/multilingual-sites-in-jekyll.html
   - https://matthewlincoln.net/2020/03/01/multilingual-jekyll.html
+  - https://www.taniarascia.com/make-a-static-website-with-jekyll/
+  - 
 - Docusaurus
 - Eleventy (https://www.11ty.dev/)
 - Sphinx
